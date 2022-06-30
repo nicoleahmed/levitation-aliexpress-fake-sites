@@ -46,3 +46,7 @@ The file `keywords.csv` contains a list of keywords and their corresponding lang
 
 The source code to this program is kept private to prevent simple countermeasures from the sites. If your site has been incorrectly blacklisted, please let me know in a GitHub issue or via the email address above.
 
+
+## See also
+
+https://support.google.com/websearch/thread/111669340/i-have-discovered-that-99-search-results-redirect-me-to-aliexpress-they-all-are-fake-online-stores?hl=en
