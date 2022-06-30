@@ -733,7 +733,6 @@
 *://urbanvillad.ee/*
 *://www.l16.ee/*
 *://www.dfe.ee/*
-*://aliexpress.ru/*
 *://kriyajoogastuudio.ee/*
 *://indecor.ee/*
 *://www.lappmiltronic.ee/*
