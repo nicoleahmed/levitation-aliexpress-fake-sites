@@ -24,7 +24,7 @@ At the very bottom, add a new subscription:
 Paste in this link:
 
 ```
-https://raw.githubusercontent.com/franga2000/aliexpress-fake-sites/main/domains_uBlacklist.txt
+https://raw.githubusercontent.com/levitation-opensource/aliexpress-fake-sites/main/domains_uBlacklist.txt
 ```
 
 ![image](https://user-images.githubusercontent.com/3891092/150679054-9a9236f5-81c0-4d6a-b539-73af1821bc93.png)
