@@ -5,7 +5,7 @@ You can read more about them in [this Google Search Help thread](https://support
 
 This repository contains a spreadsheet of common terms that bring out a lot of these sites, which is used by a script (currently not open-source in order to avoid counter-measures) that detects them and builds a list of their domains.
 
-I have added various domains mostly from .ee top-level domain and a few others, in total about 550 new domains so far.
+I have added various domains mostly from .ee (Estonia) top-level domain and a few others, in total about 550 new domains so far.
 
 That list can then be used by [uBlacklist](https://github.com/iorate/uBlacklist) or another blocking tool to rid your search results of these sites.
 
